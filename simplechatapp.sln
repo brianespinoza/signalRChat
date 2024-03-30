@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChat", "SignalRChat\SignalRChat.csproj", "{05272972-3694-4A74-A8DD-9C0BA41D661E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRWebpack", "SignalRWebpack\SignalRWebpack.csproj", "{B62AC978-5335-46D1-840F-CE7B3489141F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{05272972-3694-4A74-A8DD-9C0BA41D661E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05272972-3694-4A74-A8DD-9C0BA41D661E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05272972-3694-4A74-A8DD-9C0BA41D661E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62AC978-5335-46D1-840F-CE7B3489141F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62AC978-5335-46D1-840F-CE7B3489141F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62AC978-5335-46D1-840F-CE7B3489141F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62AC978-5335-46D1-840F-CE7B3489141F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
